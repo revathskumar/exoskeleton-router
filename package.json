@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "A backbone router extracted using exoskeleton",
   "main": "router.js",
+  "files": [
+    "router.js"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,7 +14,15 @@
     "router",
     "exoskeleton"
   ],
-  "author": "",
+  "author": {
+    "name": "Revath S Kumar",
+    "email": "rsk@revathskumar.com",
+    "url": "http://blog.revathskumar.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/revathskumar/exoskeleton-router.git"
+  },
   "license": "MIT",
   "dependencies": {
     "jquery": "^2.1.4"
