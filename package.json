@@ -1,0 +1,19 @@
+{
+  "name": "exoskeleton-router",
+  "version": "0.0.1",
+  "description": "A backbone router extracted using exoskeleton",
+  "main": "router.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backbone",
+    "router",
+    "exoskeleton"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^2.1.4"
+  }
+}
